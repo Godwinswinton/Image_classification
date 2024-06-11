@@ -1,0 +1,50 @@
+{'image': '161766.jpg', 'style': {'T-shirt/top', 'Coat', 'Pullover'}, 'category': 'Casual Appearance'}
+{'image': '136568.jpg', 'style': {'T-shirt/top', 'Coat', 'Pullover', 'Dress'}, 'category': 'Casual Appearance'}
+{'image': '191768.jpg', 'style': {'Pullover', 'Ankle boot'}, 'category': 'Intellectual Appearance'}
+{'image': '096046.jpg', 'style': {'Trouser', 'Dress', 'Shirt'}, 'category': 'Formal Appearance'}
+{'image': '171390.jpg', 'style': {'Trouser', 'Shirt', 'Ankle boot', 'Sandal'}, 'category': 'Formal Appearance'}
+{'image': '175158.jpg', 'style': {'Dress', 'Shirt', 'Coat'}, 'category': 'Casual Appearance'}
+{'image': '126883.jpg', 'style': {'Pullover', 'Coat', 'Shirt', 'Bag'}, 'category': 'Casual Appearance'}
+{'image': '148839.jpg', 'style': {'T-shirt/top', 'Pullover', 'Bag', 'Dress', 'Shirt'}, 'category': 'Casual Appearance'}
+{'image': '070569.jpg', 'style': {'Trouser', 'T-shirt/top', 'Dress'}, 'category': 'Formal Appearance'}
+{'image': '072730.jpg', 'style': {'Coat', 'Shirt', 'Pullover'}, 'category': 'Casual Appearance'}
+{'image': '065267.jpg', 'style': {'T-shirt/top', 'Coat', 'Shirt'}, 'category': 'Casual Appearance'}
+{'image': '006933.jpg', 'style': {'Pullover', 'Coat', 'Bag'}, 'category': 'Casual Appearance'}
+{'image': '112273.jpg', 'style': {'Trouser', 'Sandal'}, 'category': 'Formal Appearance'}
+{'image': '102997.jpg', 'style': {'Trouser', 'Ankle boot', 'Sandal'}, 'category': 'Formal Appearance'}
+{'image': '150630.jpg', 'style': {'T-shirt/top', 'Shirt', 'Dress'}, 'category': 'Casual Appearance'}
+{'image': '149233.jpg', 'style': {'T-shirt/top', 'Shirt', 'Coat', 'Dress'}, 'category': 'Casual Appearance'}
+{'image': '183419.jpg', 'style': {'T-shirt/top', 'Coat', 'Pullover'}, 'category': 'Casual Appearance'}
+{'image': '132454.jpg', 'style': {'Dress', 'Coat', 'Shirt', 'Pullover'}, 'category': 'Casual Appearance'}
+{'image': '012652.jpg', 'style': {'Dress', 'Shirt', 'Pullover', 'Coat'}, 'category': 'Casual Appearance'}
+{'image': '148018.jpg', 'style': {'T-shirt/top', 'Shirt', 'Bag', 'Coat'}, 'category': 'Casual Appearance'}
+{'image': '140759.jpg', 'style': {'Trouser', 'Pullover', 'Bag', 'Dress', 'Shirt'}, 'category': 'Formal Appearance'}
+{'image': '192775.jpg', 'style': {'T-shirt/top', 'Shirt', 'Pullover'}, 'category': 'Casual Appearance'}
+{'image': '180717.jpg', 'style': {'Dress', 'Coat', 'Pullover', 'Bag'}, 'category': 'Casual Appearance'}
+{'image': '018105.jpg', 'style': {'Bag', 'Dress', 'Sandal', 'Sneaker', 'Ankle boot'}, 'category': 'Intellectual Appearance'}
+{'image': '116987.jpg', 'style': {'Pullover', 'Bag', 'Dress', 'Coat', 'Shirt'}, 'category': 'Casual Appearance'}
+{'image': '103093.jpg', 'style': {'Dress', 'Bag', 'Ankle boot', 'Sneaker'}, 'category': 'Intellectual Appearance'}
+{'image': '010989.jpg', 'style': {'Trouser', 'Sneaker', 'Dress'}, 'category': 'Formal Appearance'}
+{'image': '011020.jpg', 'style': {'T-shirt/top', 'Coat', 'Pullover'}, 'category': 'Casual Appearance'}
+{'image': '022132.jpg', 'style': {'Pullover', 'Coat', 'Shirt', 'Bag'}, 'category': 'Casual Appearance'}
+{'image': '042584.jpg', 'style': {'Sneaker', 'Bag', 'Ankle boot'}, 'category': 'Intellectual Appearance'}
+{'image': '174010.jpg', 'style': {'Coat', 'Shirt', 'Bag'}, 'category': 'Casual Appearance'}
+{'image': '047857.jpg', 'style': {'T-shirt/top', 'Pullover', 'Dress', 'Coat', 'Shirt'}, 'category': 'Casual Appearance'}
+{'image': '127759.jpg', 'style': {'Trouser', 'Coat', 'Bag'}, 'category': 'Casual Appearance'}
+{'image': '079840.jpg', 'style': {'Dress', 'Coat', 'Shirt', 'Sandal'}, 'category': 'Formal Appearance'}
+{'image': '047962.jpg', 'style': {'Coat', 'Shirt', 'Pullover'}, 'category': 'Casual Appearance'}
+{'image': '044251.jpg', 'style': {'Trouser', 'Dress'}, 'category': 'Formal Appearance'}
+{'image': '114995.jpg', 'style': {'T-shirt/top', 'Bag', 'Dress', 'Sandal', 'Sneaker'}, 'category': 'Formal Appearance'}
+{'image': '151048.jpg', 'style': {'T-shirt/top', 'Shirt', 'Pullover', 'Coat'}, 'category': 'Casual Appearance'}
+{'image': '030066.jpg', 'style': {'Trouser', 'Shirt', 'Sandal'}, 'category': 'Formal Appearance'}
+{'image': '190091.jpg', 'style': {'Trouser', 'Pullover', 'Dress', 'Shirt', 'Sandal'}, 'category': 'Formal Appearance'}
+{'image': '031909.jpg', 'style': {'Coat', 'Pullover'}, 'category': 'Casual Appearance'}
+{'image': '100491.jpg', 'style': {'Trouser', 'T-shirt/top', 'Bag'}, 'category': 'Formal Appearance'}
+{'image': '096390.jpg', 'style': {'Bag', 'Ankle boot', 'Sandal'}, 'category': 'Intellectual Appearance'}
+{'image': '139425.jpg', 'style': {'Pullover', 'T-shirt/top', 'Bag'}, 'category': 'Casual Appearance'}
+{'image': '115974.jpg', 'style': {'T-shirt/top', 'Shirt', 'Pullover', 'Bag'}, 'category': 'Casual Appearance'}
+{'image': '161001.jpg', 'style': {'Shirt', 'Pullover', 'Coat'}, 'category': 'Casual Appearance'}
+{'image': '138128.jpg', 'style': {'Dress', 'Coat', 'Shirt', 'Pullover'}, 'category': 'Casual Appearance'}
+{'image': '113459.jpg', 'style': {'Dress', 'Coat', 'Shirt', 'Pullover'}, 'category': 'Casual Appearance'}
+{'image': '011378.jpg', 'style': {'Coat', 'Shirt', 'Pullover'}, 'category': 'Casual Appearance'}
+{'image': '127883.jpg', 'style': {'T-shirt/top', 'Pullover', 'Bag'}, 'category': 'Casual Appearance'}
