@@ -1,6 +1,6 @@
 # Image_classification and outfit recommedation
 
-Introduction
+Introduction/n
 To build a deep learning model that recognises a face and assigns a style. The style category is then mapped with the fashion dataset by using a machine learning algorithm to identify best fashion for the facial features.
 Dataset
 The dataset used in this project are celeba and fashion mnist. The celeba dataset is used to classify the style of the facial features and fashion mnist is to find the outfit for the style category.
